@@ -35,7 +35,8 @@ The project includes:
 - Bar charts comparing contraceptive use by marital status.  
 - National **CPR trend graph** (1993–2022).  
 - A Lovable dashboard combining all visuals.
-
+ 
+## Project link: https://kenya-cp-pulse.lovable.app
 ---
 
 **Author:** Tracy Ouma  
