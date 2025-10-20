@@ -1,30 +1,22 @@
-# Title: Maternal Health Indicators across Kenyan counties.
+# Beyond the National Average: A Disaggregated Analysis of Contraceptive Uptake in Kenya (KDHS 2022)
 
-# What is the problem you are solving?
-- Maternal deaths remain a major public health challenge in Kenya, especially in counties with limited access to skilled birth attendants and quality maternal care.
-- Many communities still lack the data-driven insights needed to understand where the gaps are and which regions need urgent interventions.
-- This project helps uncover patterns in maternal mortality rates and skilled birth attendance across counties, guiding better planning and resource allocation
+## What Problem Are You Solving?
+Unequal access and uptake of modern contraceptives across counties and demographic groups in Kenya, despite overall national progress in the Contraceptive Prevalence Rate (CPR).
 
-#  What tools did you use?
-- I will use Python for data analysis — specifically:
-    •	Pandas for cleaning and exploring the data,
-    •	Matplotlib and Seaborn for visualizing county-level comparisons,
-    •	NumPy for simple computations and trends.
-- The dataset will be obtained from the Kenya Health and Demographic Survey (KDHS) and Kenya Open Data Portal.
-- These tools will help me transform raw data into clear, actionable insights that highlight maternal health disparities
+## Tools Used
+- **Python** (Pandas, Folium, Matplotlib)
+- **GeoJSON** for county boundary mapping
+- **Streamlit/Lovable** for data visualization and deployment
 
-# What insights did you or do you want to discover? What solutions do you want to offer?
-- My aim is to discover which counties have the highest maternal mortality rates and how they relate to skilled birth attendance levels.
-- The key insight: counties with low skilled attendance rates tend to have higher maternal deaths, showing a clear need for training and deployment of skilled health workers 
-in underserved areas.
-- The solution: use data to prioritize counties for maternal health programs, improve midwife coverage, and support awareness campaigns to encourage hospital deliveries.
-- Yes — people and policymakers need these insights to plan smarter and save lives.
+## Insights to Discover
+- Disparities in contraceptive use by marital status  
+- County-level differences in CPR to identify top and bottom performers  
+- Trends in national contraceptive uptake from **1993–2022**
 
-# How would a business or a community (for Social Impact Projects) benefit from your work?
-   •	Government & NGOs: can use the findings to allocate funding and staff more effectively.
-   •	Health facilities: can identify underserved areas and expand outreach.
-   •	Communities: benefit from improved access to skilled care, reducing preventable maternal deaths.
-- Value: Informed decisions → targeted programs → fewer deaths → more mothers and children surviving.
+## Solutions to Offer
+- Targeted, data-informed interventions for low-performing counties  
+- Strengthened supply-chain and logistics planning for modern contraceptive methods  
+- Improved health promotion strategies addressing social and demographic barriers  
 
- How will you deploy your project? Lovable?
-
+## Community Benefit
+Empowers policymakers and communities with localized insights to promote equitable access to family planning services across Kenya.
